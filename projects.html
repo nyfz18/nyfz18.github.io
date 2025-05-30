@@ -50,6 +50,37 @@
     a:hover {
       text-decoration: underline;
     }
+
+    .project-entry {
+        display: flex;
+        align-items: flex-start;
+        gap: 1.5rem;
+        margin-bottom: 2rem;
+    }
+
+    .project-image {
+        width: 200px;
+        height: auto;
+        border-radius: 8px;
+        object-fit: cover;
+    }
+
+    .project-text {
+        flex: 1;
+    }
+
+    .project-text h3 {
+        margin-top: 0;
+    }
+
+    .project-text a {
+        color: #007BFF;
+        text-decoration: none;
+    }
+
+    .project-text a:hover {
+        text-decoration: underline;
+    }
   </style>
 </head>
 <body>
@@ -63,7 +94,15 @@
     <section>
       <h2>Featured Work</h2>
       <p>Here are a few projects I've been working on at the intersection of AI and healthcare...</p>
-      <!-- Add project entries here -->
+      
+        <div class="project-entry">
+            <img src="redline.jpg" alt="Screenshot of Project Redline" class="project-image">
+            <div class="project-text">
+            <h3>Project Redline</h3>
+            <p>A decision-based game simulating moral dilemmas and ethics in a dystopian bureaucracy.</p>
+            <a href="https://your-project-link.com" target="_blank">View Project</a>
+            </div>
+        </div>
     </section>
   </div>
 
