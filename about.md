@@ -1,6 +1,6 @@
 ---
 layout: about
-image: /assets/img/blog/morpeko.jpg
+image: /assets/img/blog/me.jpg
 description: >
   A Personal Portfolio
 hide_description: true
