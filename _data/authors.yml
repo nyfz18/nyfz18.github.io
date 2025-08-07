@@ -7,8 +7,8 @@ author1:
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
-    Nina Zhang is a software engineer at Harvard University. 
+  # about:             |
+
 
   # This photo will be used in the about section
   picture:

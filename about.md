@@ -11,7 +11,6 @@ redirect_from:
 # About
 
 <!--author-->
-about the author...
 
 ## Motivation and Main Principle: 
   My academic interests primarily lies in artificial intelligence (AI) and its governance, driven by a commitment to protecting the core values that define our humanity. As we advance our technological capabilities, I believe we must work as equally hard -- if not, more -- to uphold our ethical, social, and our intellectual responsibilities.
