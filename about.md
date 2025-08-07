@@ -13,6 +13,15 @@ redirect_from:
 <!--author-->
 about the author...
 
+## Motivation and Main Principle: 
+  My academic interests primarily lies in artificial intelligence (AI) and its governance, driven by a commitment to protecting the core values that define our humanity. As we advance our technological capabilities, I believe we must work as equally hard -- if not, more -- to uphold our ethical, social, and our intellectual responsibilities.
+
+## Professional Experience 
+
+Previously, I was a Health Policy & Data Intern at Massachusetts General Hospital where I worked on a [[COVID-19 outbreak simulator](https://www.covid19sim.org/)] that predicted the trends of the pandemic across the nation. This program has been later used by the Center for Disease Control (CDC) in efforts to mitigate the spread of COVID-19.
+
+I have also been a biology researcher at **Brandeis University** where I studied genetic expression during cell replication. 
+
 ## XXXX
 
 A painting.  
@@ -32,15 +41,6 @@ I'm currently a software engineer at **Harvard University** working on applicati
 
 > Some caption
 {:.lead}
-
-## Professional Experience 
-
-Health Policy and Data Intern at **Massachusetts General Hospital**. [Created a COVID-19 simulator](https://www.covid19sim.org/)
-
-## My Interests and Motivation 
-
-_Interests and Motivation_. Here. **Ethics**
-
 
 <!-- Code blocks can have a filename and a caption.
 {:.figcaption} -->
