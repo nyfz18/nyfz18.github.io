@@ -17,7 +17,9 @@ redirect_from:
 
 #### Professional Experience 
 
-Previously, I was a Health Policy & Data Intern at Massachusetts General Hospital where I worked on a [[COVID-19 outbreak simulator](https://www.covid19sim.org/)] that predicted the trends of the pandemic across the nation. This program has been later used by the Center for Disease Control (CDC) in efforts to mitigate the spread of COVID-19.
+I'm currently a software developer at **Harvard University** working on applications for the university's graduate school, the [Divison of Continuing Education (DCE)](https://dce.harvard.edu/). 
+
+Previously, I was a Health Policy & Data Intern at **Massachusetts General Hospital** where I worked on a [COVID-19 outbreak simulator](https://www.covid19sim.org/) that predicted the trends of the pandemic across the nation. This program has been later used by the Center for Disease Control (CDC) in efforts to mitigate the spread of COVID-19.
 
 I have also been a biology researcher at **Brandeis University** where I studied genetic expression during cell replication. 
 
@@ -31,12 +33,9 @@ A painting.
 
 ![Screenshot](/assets/img/personal.jpg){:.lead width="1920" height="1080" loading="lazy"}
 
-Starry Night technique replication 
+Starry Night technique replication (placeholder)
 {:.figcaption}
 
-I'm a graduate of **Brandeis University (Class of '24)** with a dual degree in computer science and biology.
-
-I'm currently a software engineer at **Harvard University** working on applications for the university's graduate school, the [Divison of Continuing Education (DCE)](https://dce.harvard.edu/). 
 
 > Some caption
 {:.lead}
