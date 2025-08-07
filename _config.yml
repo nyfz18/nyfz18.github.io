@@ -36,7 +36,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/me.jpg
+logo:                  /assets/img/profile.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -126,19 +126,6 @@ defaults:
       accent_image:
         background:    rgb(32,32,32)
         overlay:       false
-
-  # Don't include documents in assets in the sitemap
-  - scope:
-      path:            assets/
-    values:
-      sitemap:         false
-
-  # Don't include licenses in sitemap (feel free to delete)
-  - scope:
-      path:            licenses/
-    values:
-      layout:          plain
-      sitemap:         false
 
   # # You can use the following to enable comments on all posts.
   # - scope:
