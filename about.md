@@ -1,6 +1,6 @@
 ---
 layout: about
-image: /assets/img/personal.jpg
+image: /assets/img/me.jpg
 description: >
   A Personal Portfolio
 hide_description: true
